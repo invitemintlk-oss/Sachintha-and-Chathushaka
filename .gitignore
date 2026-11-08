@@ -1,0 +1,19 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Unused legacy decorative assets (kept locally, not deployed)
+public/images/
+public/background (2).png
+public/background.png
+public/backgroundmain.jpg
+public/natural_wax_seal.png
+public/ornament.png
+public/sea.png
+public/wax_seal.png
+public/wedding_seal_asset_final_1773648447338.png
